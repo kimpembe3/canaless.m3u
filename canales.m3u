@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-chno="1" tvg-name="LA 1 ES" tvg-logo="https://i.ibb.co/GHqBPVz/La1-logo.png" ,La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF: -1 tvg-chno="2" tvg-name="LA 2 ES" tvg-logo="https://i.ibb.co/qF7Zy0f/La2-logo.png" ,La 2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+
+#EXTINF: -1 tvg-chno="3" tvg-name="24h ES" tvg-logo="https://i.ibb.co/NncBbd6/24h-logo.webp" ,24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF: -1 tvg-chno="4" tvg-name="tdp ES" tvg-logo="https://i.ibb.co/7QP3X8W/tdp-logo.webp" ,tdp HD
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF: -1 tvg-chno="5" tvg-name="DAZN F1 FHD" tvg-logo="https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png" ,DAZN F1 FHD
+http://elmonkey.us:25461/john/1234/91044
+
+#EXTINF: -1 tvg-chno="6" tvg-name="DAZN 1 HD" tvg-logo="https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp" ,DAZN 1 HD
+http://vip.hispanotv.org:80/play/BdhIb6hWo0MGcK862zROv-OyB5RaCfR3jLOHsBmp9_Q/ts
+
+#EXTINF: -1 tvg-chno="7" tvg-name="DAZN 2 HD" tvg-logo="https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp" ,DAZN 2 HD
+http://elmonkey.us:25461/john/1234/91041
+
+#EXTINF: -1 tvg-chno="8" tvg-name="DAZN 3 HD" tvg-logo="https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png" ,DAZN 3 HD
+http://elmonkey.us:25461/john/1234/91042
+
+#EXTINF: -1 tvg-chno="9" tvg-name="DAZN 4 HD" tvg-logo="https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png" ,DAZN 4 HD
+http://elmonkey.us:25461/john/1234/91043
